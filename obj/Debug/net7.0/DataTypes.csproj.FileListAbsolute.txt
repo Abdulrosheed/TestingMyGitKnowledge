@@ -1,0 +1,15 @@
+/home/rashford/Desktop/MyFolders/DataTypes/bin/Debug/net7.0/DataTypes
+/home/rashford/Desktop/MyFolders/DataTypes/bin/Debug/net7.0/DataTypes.deps.json
+/home/rashford/Desktop/MyFolders/DataTypes/bin/Debug/net7.0/DataTypes.runtimeconfig.json
+/home/rashford/Desktop/MyFolders/DataTypes/bin/Debug/net7.0/DataTypes.dll
+/home/rashford/Desktop/MyFolders/DataTypes/bin/Debug/net7.0/DataTypes.pdb
+/home/rashford/Desktop/MyFolders/DataTypes/obj/Debug/net7.0/DataTypes.csproj.AssemblyReference.cache
+/home/rashford/Desktop/MyFolders/DataTypes/obj/Debug/net7.0/DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/rashford/Desktop/MyFolders/DataTypes/obj/Debug/net7.0/DataTypes.AssemblyInfoInputs.cache
+/home/rashford/Desktop/MyFolders/DataTypes/obj/Debug/net7.0/DataTypes.AssemblyInfo.cs
+/home/rashford/Desktop/MyFolders/DataTypes/obj/Debug/net7.0/DataTypes.csproj.CoreCompileInputs.cache
+/home/rashford/Desktop/MyFolders/DataTypes/obj/Debug/net7.0/DataTypes.dll
+/home/rashford/Desktop/MyFolders/DataTypes/obj/Debug/net7.0/refint/DataTypes.dll
+/home/rashford/Desktop/MyFolders/DataTypes/obj/Debug/net7.0/DataTypes.pdb
+/home/rashford/Desktop/MyFolders/DataTypes/obj/Debug/net7.0/DataTypes.genruntimeconfig.cache
+/home/rashford/Desktop/MyFolders/DataTypes/obj/Debug/net7.0/ref/DataTypes.dll
